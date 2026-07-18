@@ -1,0 +1,3 @@
+interface Keyboard {
+    void getKeyboardSpecifications();
+}
